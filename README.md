@@ -28,3 +28,4 @@
 24. [Фильтр товаров категории по цене, новинкам и лидерам продаж](https://tokmakov.msk.ru/blog/item/585)
 25. [Поиск по каталогу товаров, деплой проекта на хостинг TimeWeb](https://tokmakov.msk.ru/blog/item/592)
 # Example-shop
+# Example-shop
